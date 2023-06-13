@@ -10,7 +10,7 @@ p {
 </head>
 <body>
 
-<h1>This is a heading</h1>
+<h1>DEVOPS CI/CD PIPELINE</h1>
 
 <p>HELLO  WELCOME </p>
 <p>DEVOPS </p>
